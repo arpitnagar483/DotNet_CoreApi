@@ -1,0 +1,14 @@
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\bin\Debug\netcoreapp2.1\SimpleAPI.deps.json
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\bin\Debug\netcoreapp2.1\SimpleAPI.runtimeconfig.json
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\bin\Debug\netcoreapp2.1\SimpleAPI.runtimeconfig.dev.json
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\bin\Debug\netcoreapp2.1\SimpleAPI.dll
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\bin\Debug\netcoreapp2.1\SimpleAPI.pdb
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.csprojAssemblyReference.cache
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.csproj.CoreCompileInputs.cache
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.RazorAssemblyInfo.cache
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.RazorAssemblyInfo.cs
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.AssemblyInfoInputs.cache
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.AssemblyInfo.cs
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.dll
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.pdb

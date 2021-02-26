@@ -1,0 +1,17 @@
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\bin\Debug\netcoreapp2.1\SimpleAPI.test.deps.json
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\bin\Debug\netcoreapp2.1\SimpleAPI.test.runtimeconfig.json
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\bin\Debug\netcoreapp2.1\SimpleAPI.test.runtimeconfig.dev.json
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\bin\Debug\netcoreapp2.1\SimpleAPI.test.dll
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\bin\Debug\netcoreapp2.1\SimpleAPI.test.pdb
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\obj\Debug\netcoreapp2.1\SimpleAPI.test.csprojAssemblyReference.cache
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\obj\Debug\netcoreapp2.1\SimpleAPI.test.csproj.CoreCompileInputs.cache
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\obj\Debug\netcoreapp2.1\SimpleAPI.test.AssemblyInfoInputs.cache
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\obj\Debug\netcoreapp2.1\SimpleAPI.test.AssemblyInfo.cs
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\obj\Debug\netcoreapp2.1\SimpleAPI.test.dll
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\obj\Debug\netcoreapp2.1\SimpleAPI.test.pdb
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\bin\Debug\netcoreapp2.1\SimpleAPI.dll
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\bin\Debug\netcoreapp2.1\SimpleAPI.pdb
+C:\Users\Arpit Nagar\Documents\VSCode1\SimplApisln\test\SimpleAPI.test\obj\Debug\netcoreapp2.1\SimpleAPI.test.csproj.CopyComplete
